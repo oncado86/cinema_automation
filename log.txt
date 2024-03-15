@@ -1,0 +1,30 @@
+~~~~~~~~~~~~~~~~~~~~~~OnCaDo~~~~~~~~~~~~~~~~~~~~~~
+
+--> RED salonundaki Star Wars filminin
+1. matinede: 2 izlenme (1 Öğrenci: 20 ₺, 1 Tam: 30 ₺)
+2. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+3. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+4. matinede: 1 izlenme (1 Öğrenci: 20 ₺, 0 Tam: 0 ₺)
+5. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+
+RED salonunun toplam geliri: 70 ₺
+
+--> GREEN salonundaki The Lord of The Rings filminin
+1. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+2. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+3. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+4. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+5. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+
+GREEN salonunun toplam geliri: 0 ₺
+
+--> BLUE salonundaki Matrix filminin
+1. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+2. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+3. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+4. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+5. matinede: 0 izlenme (0 Öğrenci: 0 ₺, 0 Tam: 0 ₺)
+
+BLUE salonunun toplam geliri: 0 ₺
+
+Toplam Hasılat: 70 ₺
