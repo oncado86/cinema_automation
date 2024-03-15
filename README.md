@@ -1,1 +1,1 @@
-# cinema_automation
+# Cinema Automation
